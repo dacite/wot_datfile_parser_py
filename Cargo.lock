@@ -1018,9 +1018,9 @@ dependencies = [
 
 [[package]]
 name = "wot_datfile_parser"
-version = "0.4.1"
+version = "0.4.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "12fcfc0121bd29e1a1a862a6c762e174022402a3b034aa6743ed032a787dea66"
+checksum = "46d887e9ad74fa48005fdeac103902cca58190a19e4c3935ea7f3a9d7fad5340"
 dependencies = [
  "byteorder",
  "crc",
@@ -1040,7 +1040,7 @@ dependencies = [
 
 [[package]]
 name = "wot_datfile_parser_py"
-version = "0.2.0"
+version = "0.2.1"
 dependencies = [
  "pyo3",
  "serde_json",
